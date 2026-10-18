@@ -1,0 +1,778 @@
+{
+  "status": "complete",
+  "studies": [
+    {
+      "id": "selection",
+      "title": "看涨时，买一真的更容易成交吗？",
+      "finding": "强信号全部起点未来30秒的方向变化为 0.929 bp；实际成交起点按相同起点口径计算为 -1.303 bp。成交后另计30秒价格表现为 -0.210 bp。",
+      "headline": "-46.87",
+      "unit": "成交率差 / 个百分点",
+      "method": "最小合法数量、排队30秒；匹配股票、方向、时段、价差和深度，保留未成交时点。",
+      "case": {
+        "symbol": 600031,
+        "time_ms": 50520000,
+        "note": "按时间和证券代码选取的首个合格案例"
+      },
+      "primary": {
+        "n": 2446,
+        "stocks": 50,
+        "raw_a": 28.158298737486653,
+        "raw_b": 76.83134759462952,
+        "matched_n": 1268,
+        "matched_stocks": 44,
+        "effect": -46.8691029614325,
+        "ci": [
+          -58.7740834236145,
+          -33.76692361831665
+        ],
+        "p": 3.752634901063962e-12,
+        "per_stock_effects": {
+          "600030": -25.0,
+          "600031": -69.31818181818181,
+          "600036": -22.70833333333333,
+          "600089": -86.11111111111111,
+          "600111": -100.0,
+          "600150": -59.72222222222223,
+          "600183": -33.333333333333336,
+          "600276": -34.166666666666664,
+          "600309": -16.666666666666664,
+          "600406": -89.68253968253968,
+          "600519": -12.5,
+          "600760": -50.0,
+          "600809": 0.0,
+          "600887": -41.666666666666664,
+          "600900": -88.63636363636364,
+          "601012": -62.5,
+          "601088": -77.52976190476191,
+          "601127": -39.16666666666667,
+          "601166": -53.75,
+          "601211": -66.66666666666667,
+          "601288": 0.0,
+          "601318": -55.00000000000001,
+          "601328": -49.404761904761905,
+          "601398": -12.5,
+          "601601": -69.44444444444446,
+          "601628": -42.361111111111114,
+          "601658": -62.5,
+          "601688": -91.66666666666666,
+          "601728": -57.07070707070707,
+          "601857": -77.77777777777779,
+          "601888": -79.16666666666666,
+          "601899": -54.44444444444444,
+          "601919": -75.0,
+          "601988": -14.285714285714285,
+          "603019": -38.19444444444444,
+          "603259": -8.333333333333325,
+          "603501": -40.27777777777777,
+          "603993": -89.58333333333333,
+          "688008": -25.0,
+          "688012": -58.395833333333336,
+          "688041": 25.0,
+          "688111": 0.0,
+          "688256": -32.70833333333334,
+          "688981": -25.0
+        },
+        "leave_one_stock_out_range": [
+          -48.54047744890767,
+          -45.63350070472163
+        ],
+        "matched_cells": 272,
+        "blocks": 12,
+        "matched_a": 32.590433556342646,
+        "matched_b": 79.45953651777515,
+        "bh_q": 1.5010539604255847e-11
+      }
+    },
+    {
+      "id": "replenishment",
+      "title": "盘口补得快，也可能更脆弱。",
+      "finding": "日内留出匹配后，买一在未来5秒后退的概率差为 +8.28，区间 [-3.27, +20.21]；区间包含零，方向证据有限。",
+      "headline": "+8.28",
+      "unit": "概率差 / 个百分点",
+      "method": "比较厚盘口中的新生补量与成熟挂量，60秒去重；统计相关性与补量机制分别解释。",
+      "case": {
+        "symbol": 600111,
+        "time_ms": 50563000,
+        "note": "按时间和证券代码选取的首个合格案例"
+      },
+      "primary": {
+        "n": 1964,
+        "stocks": 50,
+        "raw_a": 20.773809523809522,
+        "raw_b": 9.724876605076362,
+        "matched_n": 566,
+        "matched_stocks": 28,
+        "effect": 8.278124577950429,
+        "ci": [
+          -3.265860843658447,
+          20.208432149887077
+        ],
+        "p": 0.20928217207952984,
+        "per_stock_effects": {
+          "600031": 0.0,
+          "600036": 0.0,
+          "600111": 0.0,
+          "600150": -27.77777777777778,
+          "600183": 11.666666666666666,
+          "600276": -6.25,
+          "600309": 49.86504723346828,
+          "600519": 60.0,
+          "600809": 0.0,
+          "600887": 93.33333333333333,
+          "601088": -3.3333333333333335,
+          "601127": 6.410256410256408,
+          "601211": 0.0,
+          "601318": 44.11764705882353,
+          "601601": -14.71291866028708,
+          "601857": 0.0,
+          "601888": 0.0,
+          "601919": 0.0,
+          "603019": 40.0,
+          "603259": -37.5,
+          "603501": 29.523809523809526,
+          "603986": -42.31150793650794,
+          "603993": 0.0,
+          "688008": 34.523809523809526,
+          "688012": -20.0,
+          "688111": -33.33333333333333,
+          "688256": 2.010233918128651,
+          "688981": 45.55555555555555
+        },
+        "leave_one_stock_out_range": [
+          5.1279316610843955,
+          10.151814671078515
+        ],
+        "matched_cells": 45,
+        "blocks": 12,
+        "matched_a": 23.015873015873016,
+        "matched_b": 14.73774843792259,
+        "bh_q": 0.2790428961060398
+      }
+    },
+    {
+      "id": "cancellation",
+      "title": "撤单很多，近价容量会怎样变化？",
+      "finding": "日内留出匹配后，未来5秒一档容量变化差为 +1.05，区间 [-24.20, +31.33]；区间包含零，方向证据有限。",
+      "headline": "+1.05",
+      "unit": "容量变化差 / 百分点",
+      "method": "上午固定撤单量分位数，比较高撤单与正常撤单；加入60秒错时对照。",
+      "case": {
+        "symbol": 600050,
+        "time_ms": 50520000,
+        "note": "按时间和证券代码选取的首个合格案例"
+      },
+      "primary": {
+        "n": 2568,
+        "stocks": 50,
+        "raw_a": 39.639068172791575,
+        "raw_b": 34.68099033706644,
+        "matched_n": 1450,
+        "matched_stocks": 49,
+        "effect": 1.0487677013639978,
+        "ci": [
+          -24.198985815048218,
+          31.332427406311027
+        ],
+        "p": 0.9457461032816739,
+        "per_stock_effects": {
+          "600028": -0.4681958149737383,
+          "600030": -10.272185175585612,
+          "600031": -11.991832455709826,
+          "600036": 49.54898773429481,
+          "600050": 1.9794534842895595,
+          "600089": 4.273372808065173,
+          "600111": 36.82129542134882,
+          "600150": -33.06403045988034,
+          "600183": -51.271490263632955,
+          "600276": 90.75985798548896,
+          "600309": -184.01847361475063,
+          "600406": -37.81978917792674,
+          "600519": -118.4722222222222,
+          "600760": 5.371108181276132,
+          "600809": -89.87880773010156,
+          "600887": 1.0345100369643134,
+          "600900": -80.34519497647612,
+          "600930": -46.97775869393208,
+          "601012": -5.020967149208519,
+          "601088": 35.52891004829981,
+          "601127": -6.2057899990825405,
+          "601166": -16.409429468677118,
+          "601211": 25.05055719277126,
+          "601288": 2.3130348466153623,
+          "601318": -77.20473759991224,
+          "601328": 1.6173159524800138,
+          "601398": -4.094687689660909,
+          "601600": 8.609423593694144,
+          "601601": -6.091354746978922,
+          "601628": 114.24326783656471,
+          "601658": -1.6571125476820723,
+          "601668": -7.012067960688124,
+          "601688": 59.99604809548326,
+          "601728": -0.583068192897637,
+          "601857": -23.610052516340318,
+          "601888": -26.005028965110718,
+          "601899": -15.31657718016541,
+          "601919": 36.59280533463956,
+          "601988": -2.046872084199372,
+          "603019": -59.4606299930055,
+          "603259": 426.96454059225795,
+          "603501": -37.03346231913847,
+          "603986": 90.66416040100248,
+          "603993": -1.1012058725605764,
+          "688008": -40.890972695979514,
+          "688012": 58.618735376752184,
+          "688041": 1.2242550794869445,
+          "688256": 54.22975423356226,
+          "688981": -59.72777930202196
+        },
+        "leave_one_stock_out_range": [
+          -7.824477567196289,
+          4.904335228783057
+        ],
+        "matched_cells": 174,
+        "blocks": 12,
+        "matched_a": 32.79418590748783,
+        "matched_b": 31.745418206123833,
+        "bh_q": 0.9457461032816739
+      }
+    },
+    {
+      "id": "gap",
+      "title": "小成交，也能触发明显跳价。",
+      "finding": "日内留出匹配后，即时两分以上中间价变化的概率差为 +10.37，区间 [+5.80, +15.47]；区间在零的一侧，仍需多日验证。",
+      "headline": "+10.37",
+      "unit": "概率差 / 个百分点",
+      "method": "固定小成交门槛，比较相邻档距一分与至少两分；分别核对成交规模及相对深度。",
+      "case": {
+        "symbol": 600519,
+        "time_ms": 50520220,
+        "note": "按时间和证券代码选取的首个合格案例"
+      },
+      "primary": {
+        "n": 2707,
+        "stocks": 50,
+        "raw_a": 12.802366599554697,
+        "raw_b": 0.0,
+        "matched_n": 362,
+        "matched_stocks": 17,
+        "effect": 10.369281045751634,
+        "ci": [
+          5.804390716552734,
+          15.474780631065368
+        ],
+        "p": 0.00013166910009109554,
+        "per_stock_effects": {
+          "600183": 28.57142857142857,
+          "600276": 0.0,
+          "600309": 0.0,
+          "600519": 59.00000000000001,
+          "600809": 0.0,
+          "601088": 0.0,
+          "601628": 0.0,
+          "603019": 0.0,
+          "603259": 4.761904761904762,
+          "603501": 0.0,
+          "603986": 17.0,
+          "688008": 5.0,
+          "688012": 6.25,
+          "688041": 6.25,
+          "688111": 5.0,
+          "688256": 38.88888888888889,
+          "688981": 5.555555555555555
+        },
+        "leave_one_stock_out_range": [
+          7.329861111111111,
+          11.01736111111111
+        ],
+        "matched_cells": 94,
+        "blocks": 12,
+        "matched_a": 10.369281045751634,
+        "matched_b": 0.0,
+        "bh_q": 0.0002633382001821911
+      }
+    }
+  ],
+  "execution": [
+    {
+      "strategy": "immediate",
+      "name": "立即主动",
+      "cost_bp": 7.186307844829081,
+      "completion_rate": 0.5975,
+      "volume_completion": 0.7531978784806177,
+      "median_wait_s": 0.1,
+      "fees_cents": 1018820,
+      "remaining": 303768,
+      "incremental_pnl_cents": -2139118,
+      "tasks": 400
+    },
+    {
+      "strategy": "twap",
+      "name": "固定 TWAP",
+      "cost_bp": 9.754939242269662,
+      "completion_rate": 0.6425,
+      "volume_completion": 0.8670751761433065,
+      "median_wait_s": 50.1,
+      "fees_cents": 1438117,
+      "remaining": 163606,
+      "incremental_pnl_cents": -2439310,
+      "tasks": 400
+    },
+    {
+      "strategy": "passive",
+      "name": "被动等待",
+      "cost_bp": 5.887643933848989,
+      "completion_rate": 0.59,
+      "volume_completion": 0.6451151106257962,
+      "median_wait_s": 22.65,
+      "fees_cents": 957174,
+      "remaining": 436798,
+      "incremental_pnl_cents": -1818350,
+      "tasks": 400
+    },
+    {
+      "strategy": "adaptive",
+      "name": "信号驱动",
+      "cost_bp": 6.8545943893454355,
+      "completion_rate": 0.7225,
+      "volume_completion": 0.7124777383459429,
+      "median_wait_s": 9.1,
+      "fees_cents": 1083359,
+      "remaining": 353887,
+      "incremental_pnl_cents": -2030049,
+      "tasks": 400
+    }
+  ],
+  "execution_sensitivity": [
+    {
+      "strategy": "adaptive",
+      "scale": 0,
+      "conservative": false,
+      "saving_bp": 0.8011337362535369,
+      "ci": [
+        0.0909969549626112,
+        1.4021477699279785
+      ],
+      "completion_rate": 0.715
+    },
+    {
+      "strategy": "adaptive",
+      "scale": 0,
+      "conservative": true,
+      "saving_bp": 0.7296888854126721,
+      "ci": [
+        0.06507780868560076,
+        1.265936717391014
+      ],
+      "completion_rate": 0.715
+    },
+    {
+      "strategy": "adaptive",
+      "scale": 1,
+      "conservative": false,
+      "saving_bp": 0.331713455483645,
+      "ci": [
+        -0.5177782997488976,
+        1.0807190120220183
+      ],
+      "completion_rate": 0.7225
+    },
+    {
+      "strategy": "adaptive",
+      "scale": 1,
+      "conservative": true,
+      "saving_bp": 0.2689016846135102,
+      "ci": [
+        -0.5405564606189728,
+        0.9506261363625527
+      ],
+      "completion_rate": 0.72
+    },
+    {
+      "strategy": "adaptive",
+      "scale": 5,
+      "conservative": false,
+      "saving_bp": 0.47696680096105915,
+      "ci": [
+        -0.40145401433110234,
+        1.2743807047605513
+      ],
+      "completion_rate": 0.72
+    },
+    {
+      "strategy": "adaptive",
+      "scale": 5,
+      "conservative": true,
+      "saving_bp": 0.43933478645730356,
+      "ci": [
+        -0.4209862038493156,
+        1.2173991620540618
+      ],
+      "completion_rate": 0.7175
+    },
+    {
+      "strategy": "immediate",
+      "scale": 0,
+      "conservative": false,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.6175
+    },
+    {
+      "strategy": "immediate",
+      "scale": 0,
+      "conservative": true,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.6175
+    },
+    {
+      "strategy": "immediate",
+      "scale": 1,
+      "conservative": false,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.5975
+    },
+    {
+      "strategy": "immediate",
+      "scale": 1,
+      "conservative": true,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.5975
+    },
+    {
+      "strategy": "immediate",
+      "scale": 5,
+      "conservative": false,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.5925
+    },
+    {
+      "strategy": "immediate",
+      "scale": 5,
+      "conservative": true,
+      "saving_bp": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "completion_rate": 0.5925
+    },
+    {
+      "strategy": "passive",
+      "scale": 0,
+      "conservative": false,
+      "saving_bp": 1.7549220966882109,
+      "ci": [
+        1.0233868509531021,
+        2.651927727460861
+      ],
+      "completion_rate": 0.575
+    },
+    {
+      "strategy": "passive",
+      "scale": 0,
+      "conservative": true,
+      "saving_bp": 1.7295916391440138,
+      "ci": [
+        1.026909351348877,
+        2.6389572501182554
+      ],
+      "completion_rate": 0.5725
+    },
+    {
+      "strategy": "passive",
+      "scale": 1,
+      "conservative": false,
+      "saving_bp": 1.2986639109800924,
+      "ci": [
+        0.48318427577614786,
+        2.2260173857212067
+      ],
+      "completion_rate": 0.59
+    },
+    {
+      "strategy": "passive",
+      "scale": 1,
+      "conservative": true,
+      "saving_bp": 1.2366608802210735,
+      "ci": [
+        0.4810970649123192,
+        2.1563595712184904
+      ],
+      "completion_rate": 0.585
+    },
+    {
+      "strategy": "passive",
+      "scale": 5,
+      "conservative": false,
+      "saving_bp": 1.4303390356372738,
+      "ci": [
+        0.5665723830461502,
+        2.539771234989166
+      ],
+      "completion_rate": 0.5825
+    },
+    {
+      "strategy": "passive",
+      "scale": 5,
+      "conservative": true,
+      "saving_bp": 1.4029364114329754,
+      "ci": [
+        0.5578859031200409,
+        2.527656537294388
+      ],
+      "completion_rate": 0.5775
+    },
+    {
+      "strategy": "twap",
+      "scale": 0,
+      "conservative": false,
+      "saving_bp": -2.3321189020792077,
+      "ci": [
+        -2.716782122850418,
+        -1.777933955192566
+      ],
+      "completion_rate": 0.6525
+    },
+    {
+      "strategy": "twap",
+      "scale": 0,
+      "conservative": true,
+      "saving_bp": -2.3321189020792077,
+      "ci": [
+        -2.716782122850418,
+        -1.777933955192566
+      ],
+      "completion_rate": 0.6525
+    },
+    {
+      "strategy": "twap",
+      "scale": 1,
+      "conservative": false,
+      "saving_bp": -2.5686313974405808,
+      "ci": [
+        -3.0173251748085024,
+        -1.9715170681476595
+      ],
+      "completion_rate": 0.6425
+    },
+    {
+      "strategy": "twap",
+      "scale": 1,
+      "conservative": true,
+      "saving_bp": -2.5686313974405808,
+      "ci": [
+        -3.0173251748085024,
+        -1.9715170681476595
+      ],
+      "completion_rate": 0.6425
+    },
+    {
+      "strategy": "twap",
+      "scale": 5,
+      "conservative": false,
+      "saving_bp": -2.533441782676637,
+      "ci": [
+        -2.9826610386371613,
+        -1.9105933636426926
+      ],
+      "completion_rate": 0.6425
+    },
+    {
+      "strategy": "twap",
+      "scale": 5,
+      "conservative": true,
+      "saving_bp": -2.533441782676637,
+      "ci": [
+        -2.9826610386371613,
+        -1.9105933636426926
+      ],
+      "completion_rate": 0.6425
+    }
+  ],
+  "cost_stress": [
+    {
+      "strategy": "immediate",
+      "extra_cost_bp_per_traded_notional": 1.0,
+      "all_task_cost_bp": 7.97773673505321,
+      "incremental_pnl_cents": -2313936,
+      "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+    },
+    {
+      "strategy": "twap",
+      "extra_cost_bp_per_traded_notional": 1.0,
+      "all_task_cost_bp": 10.571397318177695,
+      "incremental_pnl_cents": -2614137,
+      "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+    },
+    {
+      "strategy": "passive",
+      "extra_cost_bp_per_traded_notional": 1.0,
+      "all_task_cost_bp": 6.625308801044891,
+      "incremental_pnl_cents": -1980953,
+      "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+    },
+    {
+      "strategy": "adaptive",
+      "extra_cost_bp_per_traded_notional": 1.0,
+      "all_task_cost_bp": 7.6646951000424455,
+      "incremental_pnl_cents": -2207602,
+      "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+    }
+  ],
+  "models": [
+    {
+      "horizon_s": 1,
+      "alpha": 10.0,
+      "train_n": 67800,
+      "validation_n": 31800,
+      "holdout_n": 33000,
+      "holdout_mse": 1.3022855520248413,
+      "holdout_correlation": 0.22376249409712629,
+      "mean_prediction_bp": -0.023368213325738907
+    },
+    {
+      "horizon_s": 5,
+      "alpha": 10.0,
+      "train_n": 67800,
+      "validation_n": 31800,
+      "holdout_n": 32950,
+      "holdout_mse": 3.162041425704956,
+      "holdout_correlation": 0.20909684375547577,
+      "mean_prediction_bp": -0.04579684138298035
+    },
+    {
+      "horizon_s": 30,
+      "alpha": 10.0,
+      "train_n": 67800,
+      "validation_n": 31800,
+      "holdout_n": 32700,
+      "holdout_mse": 11.678906440734863,
+      "holdout_correlation": 0.18141246867552485,
+      "mean_prediction_bp": -0.17232854664325714
+    },
+    {
+      "horizon_s": 60,
+      "alpha": 10.0,
+      "train_n": 67800,
+      "validation_n": 31800,
+      "holdout_n": 32400,
+      "holdout_mse": 20.58934783935547,
+      "holdout_correlation": 0.16784878972778208,
+      "mean_prediction_bp": -0.2841481864452362
+    }
+  ],
+  "figures": [
+    {
+      "path": "four_studies.png",
+      "title": "四项研究：匹配后的条件比较与覆盖范围"
+    },
+    {
+      "path": "execution.png",
+      "title": "执行对照：成本、完成率与延迟敏感性"
+    }
+  ],
+  "backend": {
+    "requested_device": "mps",
+    "effective_device": "mps",
+    "dtype": "float32",
+    "fallback_reason": null,
+    "cuda_validation": "未测试",
+    "torch": "2.5.1",
+    "seed": 20260923
+  },
+  "scope": "全部50股，单日时间留出；固定历史路径、排队、共享容量、含费执行及独立共享账户核验。",
+  "run": {
+    "seconds": 73.91510858410038,
+    "peak_rss_bytes": 4704960512,
+    "date": "2026-09-23",
+    "seed": 20260923,
+    "source_sha256": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+    "python": "3.12.9",
+    "platform": "macOS-26.6-arm64-arm-64bit",
+    "source_files": {
+      "python/sse50_lab/service.py": "674f05bc0fd752df33f7ef283effd92a71b70e91936ef418d17f452c06eb93c4",
+      "python/sse50_lab/release.py": "218ae84d52072d73ec736d08022b882d46786da019e455d055df5b3ac279eed8",
+      "python/sse50_lab/execution.py": "14d1a2f06a680af3b1b5b74c57b3b2e8f7c589cd2a1088808334956ea98c494f",
+      "python/sse50_lab/audit.py": "2dcc03af47425300cd033f638f3b59d5bb5d04b59baad7a3f1c343570fa61279",
+      "python/sse50_lab/models.py": "ef1b2a57626d5c94e854268773d7cbaf8107c33848327d41ba8c18687c22d0a9",
+      "python/sse50_lab/research.py": "6024403d6f537bba1107ac59f203eddbbdf7380e19d44591f34cdc830732ea7c",
+      "python/sse50_lab/__init__.py": "d8dd7825405806530f73009367fa502c6f2aa72de6784cea9c860dc0849f27f3",
+      "python/sse50_lab/features.py": "99b96c40da6247324119d308d594dd7960b2f0aacc19919ebadc34fe16e2ca0b",
+      "python/sse50_lab/api.py": "125163ad5725f8d80488d2dec13152dadcfff1157a5d370177e6aeb9d8b85146",
+      "python/sse50_lab/cli.py": "8ab94aafd1d070e295eac5a0b77060d92081c8efd0fc0cb2b9e3a0daf75e709e",
+      "python/sse50_lab/settings.py": "95f28b3936069e8d8fcca89609220cb5ca9f94eb9641867d3460c6472a7ec848",
+      "python/sse50_lab/data.py": "49cb19c347d14023472fc29663d65a91aa0a7372331caf65e5116da35ecd83cf",
+      "python/sse50_lab/account.py": "19c19912161703efb727b8f5dacd4f262051087aa9910bd8340f79aed6d52e7a",
+      "python/sse50_lab/compute.py": "5707b47ced03fdc35abe72aebe559aa9408ba73179771c3204f4a23a98311826"
+    },
+    "feature_rows": 711000,
+    "packet_rows": 1876754,
+    "probe_rows": 22000,
+    "parent_tasks": 9600,
+    "configuration": {
+      "date": "2026-09-23",
+      "device": "mps",
+      "seed": 20260923,
+      "data_dir": "data",
+      "cash_yuan": 1000000,
+      "overnight": {},
+      "latency": {
+        "market_ms": 100,
+        "submit_ms": 50,
+        "cancel_ms": 50,
+        "report_ms": 50
+      },
+      "fees": {
+        "commission_rate": "0.00025",
+        "commission_min_yuan": "5",
+        "commission_includes_exchange_and_regulatory": true,
+        "transfer_rate": "0.00001",
+        "sell_stamp_rate": "0.0005"
+      },
+      "research": {
+        "cash_yuan": 10000000,
+        "parent_yuan": 50000,
+        "inventory_parents": 10,
+        "deadline_s": 60,
+        "horizons_s": [
+          1,
+          5,
+          30,
+          60
+        ],
+        "calibration": [
+          "09:35:00",
+          "11:28:00"
+        ],
+        "validation": [
+          "13:05:00",
+          "13:58:00"
+        ],
+        "holdout": [
+          "14:02:00",
+          "14:57:00"
+        ],
+        "bootstrap_blocks": 1000
+      }
+    }
+  }
+}

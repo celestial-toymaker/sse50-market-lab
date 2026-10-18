@@ -1,0 +1,31 @@
+[build-system]
+requires = ["maturin>=1.8,<2"]
+build-backend = "maturin"
+
+[project]
+name = "sse50-market-lab"
+version = "0.1.0"
+description = "SSE 50 event replay, exchange simulation and microstructure research"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "numpy>=1.26,<3", "pyarrow>=18,<20", "pandas>=2.2,<3",
+  "fastapi>=0.115,<1", "uvicorn>=0.34,<1", "pydantic>=2.10,<3",
+  "requests>=2.32,<3", "PyYAML>=6,<7", "torch>=2.5,<2.6",
+  "matplotlib>=3.9,<4", "typer>=0.15,<1",
+]
+
+[project.scripts]
+sse50 = "sse50_lab.cli:app"
+
+[dependency-groups]
+dev = ["pytest>=8,<9", "httpx>=0.28,<1", "maturin>=1.8,<2", "hypothesis>=6,<7"]
+
+[tool.maturin]
+manifest-path = "crates/core/Cargo.toml"
+python-source = "python"
+module-name = "sse50_lab._core"
+features = ["pyo3/extension-module"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["mps: Apple Silicon MPS verification"]

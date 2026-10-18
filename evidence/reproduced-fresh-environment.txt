@@ -1,0 +1,64 @@
+Using CPython 3.12.9
+Creating virtual environment at: .venv
+   Building sse50-market-lab @ file:///Users/peter/qt/sse50-market-lab/work/reproduce-final-20261017/sse50-market-lab
+      Built sse50-market-lab @ file:///Users/peter/qt/sse50-market-lab/work/reproduce-final-20261017/sse50-market-lab
+Prepared 1 package in 17.51s
+Installed 58 packages in 359ms
+ + annotated-doc==0.0.5
+ + annotated-types==0.8.0
+ + anyio==4.15.1
+ + certifi==2026.7.22
+ + charset-normalizer==3.5.2
+ + click==8.5.0
+ + contourpy==1.4.0
+ + cycler==0.12.1
+ + fastapi==0.143.3
+ + filelock==4.2.0
+ + fonttools==4.67.0
+ + fsspec==2026.9.0
+ + h11==0.16.0
+ + httpcore==1.0.9
+ + httpx==0.28.1
+ + hypothesis==6.170.1
+ + idna==3.20
+ + iniconfig==2.3.1
+ + jinja2==3.1.6
+ + kiwisolver==1.5.1
+ + markdown-it-py==4.2.0
+ + markupsafe==3.0.4
+ + matplotlib==3.11.2
+ + maturin==1.15.0
+ + mdurl==0.1.2
+ + mpmath==1.3.0
+ + networkx==3.7
+ + numpy==2.5.4
+ + opentelemetry-api==1.45.1
+ + packaging==26.3
+ + pandas==2.3.3
+ + pillow==12.3.0
+ + pluggy==1.7.0
+ + pyarrow==19.0.1
+ + pydantic==2.14.1
+ + pydantic-core==2.50.1
+ + pygments==2.21.0
+ + pyparsing==3.3.3
+ + pytest==8.4.2
+ + python-dateutil==2.9.0.post0
+ + pytz==2026.5
+ + pyyaml==6.0.3
+ + requests==2.34.2
+ + rich==15.0.0
+ + setuptools==84.0.0
+ + shellingham==1.5.4
+ + six==1.17.0
+ + sortedcontainers==2.4.0
+ + sse50-market-lab==0.1.0 (from file:///Users/peter/qt/sse50-market-lab/work/reproduce-final-20261017/sse50-market-lab)
+ + starlette==1.8.0
+ + sympy==1.13.1
+ + torch==2.5.1
+ + typer==0.27.3
+ + typing-extensions==4.16.0
+ + typing-inspection==0.4.4
+ + tzdata==2026.5
+ + urllib3==2.8.0
+ + uvicorn==0.54.0

@@ -1,0 +1,67 @@
+audit 600028: refs=0, end=True, same-second=100.000%
+audit 600030: refs=0, end=True, same-second=100.000%
+audit 600031: refs=0, end=True, same-second=100.000%
+audit 600036: refs=0, end=True, same-second=100.000%
+audit 600050: refs=0, end=True, same-second=100.000%
+audit 600089: refs=0, end=True, same-second=100.000%
+audit 600111: refs=0, end=True, same-second=100.000%
+audit 600150: refs=0, end=True, same-second=100.000%
+audit 600183: refs=0, end=True, same-second=100.000%
+audit 600276: refs=0, end=True, same-second=100.000%
+audit 600309: refs=0, end=True, same-second=100.000%
+audit 600406: refs=0, end=True, same-second=100.000%
+audit 600519: refs=0, end=True, same-second=100.000%
+audit 600760: refs=0, end=True, same-second=100.000%
+audit 600809: refs=0, end=True, same-second=100.000%
+audit 600887: refs=0, end=True, same-second=100.000%
+audit 600900: refs=0, end=True, same-second=100.000%
+audit 600930: refs=0, end=True, same-second=100.000%
+audit 601012: refs=0, end=True, same-second=100.000%
+audit 601088: refs=0, end=True, same-second=100.000%
+audit 601127: refs=0, end=True, same-second=100.000%
+audit 601166: refs=0, end=True, same-second=100.000%
+audit 601211: refs=0, end=True, same-second=100.000%
+audit 601288: refs=0, end=True, same-second=100.000%
+audit 601318: refs=0, end=True, same-second=100.000%
+audit 601328: refs=0, end=True, same-second=100.000%
+audit 601398: refs=0, end=True, same-second=100.000%
+audit 601600: refs=0, end=True, same-second=100.000%
+audit 601601: refs=0, end=True, same-second=100.000%
+audit 601628: refs=0, end=True, same-second=100.000%
+audit 601658: refs=0, end=True, same-second=100.000%
+audit 601668: refs=0, end=True, same-second=100.000%
+audit 601688: refs=0, end=True, same-second=100.000%
+audit 601728: refs=0, end=True, same-second=100.000%
+audit 601857: refs=0, end=True, same-second=100.000%
+audit 601888: refs=0, end=True, same-second=100.000%
+audit 601899: refs=0, end=True, same-second=100.000%
+audit 601919: refs=0, end=True, same-second=100.000%
+audit 601988: refs=0, end=True, same-second=100.000%
+audit 603019: refs=0, end=True, same-second=100.000%
+audit 603259: refs=0, end=True, same-second=100.000%
+audit 603501: refs=0, end=True, same-second=100.000%
+audit 603986: refs=0, end=True, same-second=100.000%
+audit 603993: refs=0, end=True, same-second=100.000%
+audit 688008: refs=0, end=True, same-second=100.000%
+audit 688012: refs=0, end=True, same-second=100.000%
+audit 688041: refs=0, end=True, same-second=100.000%
+audit 688111: refs=0, end=True, same-second=100.000%
+audit 688256: refs=0, end=True, same-second=100.000%
+audit 688981: refs=0, end=True, same-second=100.000%
+{
+  "status": "complete",
+  "symbols": 50,
+  "total_events": 10069294,
+  "structural_pass": true,
+  "closing_depth_pass": 50,
+  "volume_pass": 50,
+  "after_volume_pass": 50,
+  "opening_pass": 50,
+  "closing_pass": 50,
+  "snapshot_count": 236581,
+  "direct_rate": 0.2830954303177347,
+  "same_second_rate": 1.0,
+  "expanded_rate": 1.0,
+  "seconds": 13.896323375054635,
+  "alignment_note": "快照缺少频道业务水位。同秒及扩窗匹配属于离线时间映射诊断；保留直接匹配原始结果，策略采用逐笔事件的因果顺序。"
+}

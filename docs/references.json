@@ -1,0 +1,37 @@
+[
+  {
+    "repository": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "commit": "c6e231caf32b7fc97e6459817fff66458cf7e7c4",
+    "license": "MIT",
+    "default_branch": "master",
+    "usage": "architecture reference; implementation in this project is original"
+  },
+  {
+    "repository": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "commit": "5b88254a689a3f87bb538a576d4c03f1277ca78c",
+    "license": "LGPL-3.0",
+    "default_branch": "develop",
+    "usage": "architecture reference; implementation in this project is original"
+  },
+  {
+    "repository": "nkaz001/hftbacktest",
+    "url": "https://github.com/nkaz001/hftbacktest",
+    "commit": "5f3ec40b2afb764e0fea112f941ed85523ef4e88",
+    "license": "MIT",
+    "default_branch": "master",
+    "usage": "architecture reference; implementation in this project is original"
+  },
+  {
+    "repository": "abides-sim/abides",
+    "url": "https://github.com/abides-sim/abides",
+    "commit": "c4bf157678928934417aba6073eb0651aeaf6d15",
+    "license": "BSD-3-Clause",
+    "default_branch": "master",
+    "usage": "architecture reference; implementation in this project is original",
+    "github_license_metadata": "NOASSERTION",
+    "license_source": "https://github.com/abides-sim/abides/blob/c4bf157678928934417aba6073eb0651aeaf6d15/LICENSE.txt",
+    "license_sha256": "9c59cf2e0fa99d36263cfdbd6c4417586abe09c4ef358a3119f66bfb90686de9"
+  }
+]

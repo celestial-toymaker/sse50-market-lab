@@ -1,0 +1,76 @@
+features 600028: 14,220 one-second books, 52,187 aggressor packets
+features 600030: 14,220 one-second books, 36,324 aggressor packets
+features 600031: 14,220 one-second books, 40,392 aggressor packets
+features 600036: 14,220 one-second books, 43,641 aggressor packets
+features 600050: 14,220 one-second books, 17,105 aggressor packets
+features 600089: 14,220 one-second books, 20,168 aggressor packets
+features 600111: 14,220 one-second books, 25,419 aggressor packets
+features 600150: 14,220 one-second books, 76,726 aggressor packets
+features 600183: 14,220 one-second books, 96,301 aggressor packets
+features 600276: 14,220 one-second books, 49,432 aggressor packets
+features 600309: 14,220 one-second books, 53,719 aggressor packets
+features 600406: 14,220 one-second books, 25,741 aggressor packets
+features 600519: 14,220 one-second books, 18,688 aggressor packets
+features 600760: 14,220 one-second books, 12,662 aggressor packets
+features 600809: 14,220 one-second books, 15,758 aggressor packets
+features 600887: 14,220 one-second books, 38,157 aggressor packets
+features 600900: 14,220 one-second books, 46,998 aggressor packets
+features 600930: 14,220 one-second books, 24,394 aggressor packets
+features 601012: 14,220 one-second books, 29,853 aggressor packets
+features 601088: 14,220 one-second books, 28,062 aggressor packets
+features 601127: 14,220 one-second books, 31,538 aggressor packets
+features 601166: 14,220 one-second books, 20,914 aggressor packets
+features 601211: 14,220 one-second books, 28,840 aggressor packets
+features 601288: 14,220 one-second books, 53,655 aggressor packets
+features 601318: 14,220 one-second books, 46,011 aggressor packets
+features 601328: 14,220 one-second books, 33,264 aggressor packets
+features 601398: 14,220 one-second books, 56,531 aggressor packets
+features 601600: 14,220 one-second books, 48,823 aggressor packets
+features 601601: 14,220 one-second books, 34,416 aggressor packets
+features 601628: 14,220 one-second books, 23,861 aggressor packets
+features 601658: 14,220 one-second books, 31,417 aggressor packets
+features 601668: 14,220 one-second books, 27,384 aggressor packets
+features 601688: 14,220 one-second books, 23,398 aggressor packets
+features 601728: 14,220 one-second books, 22,964 aggressor packets
+features 601857: 14,220 one-second books, 38,400 aggressor packets
+features 601888: 14,220 one-second books, 17,367 aggressor packets
+features 601899: 14,220 one-second books, 78,079 aggressor packets
+features 601919: 14,220 one-second books, 36,546 aggressor packets
+features 601988: 14,220 one-second books, 52,730 aggressor packets
+features 603019: 14,220 one-second books, 35,980 aggressor packets
+features 603259: 14,220 one-second books, 58,626 aggressor packets
+features 603501: 14,220 one-second books, 17,765 aggressor packets
+features 603986: 14,220 one-second books, 87,181 aggressor packets
+features 603993: 14,220 one-second books, 45,777 aggressor packets
+features 688008: 14,220 one-second books, 61,524 aggressor packets
+features 688012: 14,220 one-second books, 20,503 aggressor packets
+features 688041: 14,220 one-second books, 38,950 aggressor packets
+features 688111: 14,220 one-second books, 8,514 aggressor packets
+features 688256: 14,220 one-second books, 16,199 aggressor packets
+features 688981: 14,220 one-second books, 27,870 aggressor packets
+execution immediate, latency=0, conservative=False: 400 parents, fees=10518.77
+execution twap, latency=0, conservative=False: 400 parents, fees=14445.26
+execution passive, latency=0, conservative=False: 400 parents, fees=9386.19
+execution adaptive, latency=0, conservative=False: 400 parents, fees=10726.86
+execution immediate, latency=0, conservative=True: 400 parents, fees=10518.77
+execution twap, latency=0, conservative=True: 400 parents, fees=14445.26
+execution passive, latency=0, conservative=True: 400 parents, fees=9348.63
+execution adaptive, latency=0, conservative=True: 400 parents, fees=10716.35
+execution immediate, latency=1, conservative=False: 400 parents, fees=10188.20
+execution twap, latency=1, conservative=False: 400 parents, fees=14381.17
+execution passive, latency=1, conservative=False: 400 parents, fees=9571.74
+execution adaptive, latency=1, conservative=False: 400 parents, fees=10833.59
+execution immediate, latency=1, conservative=True: 400 parents, fees=10188.20
+execution twap, latency=1, conservative=True: 400 parents, fees=14381.17
+execution passive, latency=1, conservative=True: 400 parents, fees=9507.74
+execution adaptive, latency=1, conservative=True: 400 parents, fees=10826.61
+execution immediate, latency=5, conservative=False: 400 parents, fees=10103.66
+execution twap, latency=5, conservative=False: 400 parents, fees=14357.92
+execution passive, latency=5, conservative=False: 400 parents, fees=9487.35
+execution adaptive, latency=5, conservative=False: 400 parents, fees=10815.14
+execution immediate, latency=5, conservative=True: 400 parents, fees=10103.66
+execution twap, latency=5, conservative=True: 400 parents, fees=14357.92
+execution passive, latency=5, conservative=True: 400 parents, fees=9423.98
+execution adaptive, latency=5, conservative=True: 400 parents, fees=10799.89
+Matplotlib is building the font cache; this may take a moment.
+{"status": "complete", "backend": {"requested_device": "mps", "effective_device": "mps", "dtype": "float32", "fallback_reason": null, "cuda_validation": "未测试", "torch": "2.5.1", "seed": 20260923}, "studies": 4}

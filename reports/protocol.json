@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-09-23",
+  "external_prior": "Read the complete course issue #6 discussion before implementation. Report independent replication and extensions explicitly.",
+  "calibration": [
+    "09:35:00",
+    "11:28:00"
+  ],
+  "validation": [
+    "13:05:00",
+    "13:58:00"
+  ],
+  "holdout": [
+    "14:02:00",
+    "14:57:00"
+  ],
+  "embargo_seconds": 120,
+  "horizons_seconds": [
+    1,
+    5,
+    30,
+    60
+  ],
+  "features_clock": "Latest one-second state at or before decision minus market latency",
+  "primary_tests": [
+    "strong versus weak imbalance: passive fill fraction",
+    "fresh replenished versus mature depth: future five-second bid retreat",
+    "high versus normal cancellations: five-second depth ratio",
+    "small aggressor packets: gap >=2 versus gap=1, immediate >=2-tick midpoint impact"
+  ],
+  "matching": [
+    "symbol",
+    "half_hour",
+    "spread_band",
+    "depth_band",
+    "side when applicable"
+  ],
+  "window_thinning_seconds": 60,
+  "uncertainty": "Fixed matching weights; synchronized five-minute block bootstrap; single-day conditional uncertainty",
+  "multiple_tests": "Benjamini-Hochberg across the four primary normal-approximation block tests; all horizon checks retained",
+  "execution": {
+    "parent_yuan": 50000,
+    "deadline_seconds": 60,
+    "protection_ticks": 2,
+    "max_displayed_depth_fraction": 0.1,
+    "max_trailing_minute_volume_fraction": 0.01,
+    "commission": "2.5bp inclusive of exchange/regulatory fees, 5 yuan minimum per order; transfer 0.1bp both sides; stamp 5bp sells"
+  },
+  "cuda_validation": "未测试",
+  "seed": 20260923,
+  "backend_request": "mps",
+  "effective_configuration": {
+    "date": "2026-09-23",
+    "device": "mps",
+    "seed": 20260923,
+    "data_dir": "data",
+    "cash_yuan": 1000000,
+    "overnight": {},
+    "latency": {
+      "market_ms": 100,
+      "submit_ms": 50,
+      "cancel_ms": 50,
+      "report_ms": 50
+    },
+    "fees": {
+      "commission_rate": "0.00025",
+      "commission_min_yuan": "5",
+      "commission_includes_exchange_and_regulatory": true,
+      "transfer_rate": "0.00001",
+      "sell_stamp_rate": "0.0005"
+    },
+    "research": {
+      "cash_yuan": 10000000,
+      "parent_yuan": 50000,
+      "inventory_parents": 10,
+      "deadline_s": 60,
+      "horizons_s": [
+        1,
+        5,
+        30,
+        60
+      ],
+      "calibration": [
+        "09:35:00",
+        "11:28:00"
+      ],
+      "validation": [
+        "13:05:00",
+        "13:58:00"
+      ],
+      "holdout": [
+        "14:02:00",
+        "14:57:00"
+      ],
+      "bootstrap_blocks": 1000
+    }
+  }
+}

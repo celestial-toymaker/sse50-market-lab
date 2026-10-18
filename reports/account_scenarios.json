@@ -1,0 +1,8714 @@
+[
+  {
+    "cash_cents": 1060050763,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1060050763,
+    "fees_cents": 1051877,
+    "equity_cents": 3853179823,
+    "incremental_pnl_cents": -2280397,
+    "positions": {
+      "600028": {
+        "total": 96100,
+        "sellable": 64100,
+        "frozen": 0,
+        "available": 64100,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 136600,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27900,
+        "sellable": 20600,
+        "frozen": 0,
+        "available": 20600,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12500,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3900,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 15500,
+        "frozen": 0,
+        "available": 15500,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11400,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 132100,
+        "sellable": 100900,
+        "frozen": 0,
+        "available": 100900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40700,
+        "sellable": 30300,
+        "frozen": 0,
+        "available": 30300,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 11800,
+        "sellable": 8100,
+        "frozen": 0,
+        "available": 8100,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12900,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30200,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65700,
+        "sellable": 43700,
+        "frozen": 0,
+        "available": 43700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60800,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54100,
+        "sellable": 32500,
+        "frozen": 0,
+        "available": 32500,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16200,
+        "sellable": 10600,
+        "frozen": 0,
+        "available": 10600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102800,
+        "sellable": 78800,
+        "frozen": 0,
+        "available": 78800,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25700,
+        "sellable": 17600,
+        "frozen": 0,
+        "available": 17600,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 82900,
+        "sellable": 67600,
+        "frozen": 0,
+        "available": 67600,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 29700,
+        "frozen": 0,
+        "available": 29700,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10500,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77200,
+        "sellable": 46800,
+        "frozen": 0,
+        "available": 46800,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2048,
+        "sellable": 1248,
+        "frozen": 0,
+        "available": 1248,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1606,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3796,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 0,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1008244075,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1008244075,
+    "fees_cents": 1444526,
+    "equity_cents": 3852990023,
+    "incremental_pnl_cents": -2470197,
+    "positions": {
+      "600028": {
+        "total": 90800,
+        "sellable": 57000,
+        "frozen": 0,
+        "available": 57000,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 131800,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28700,
+        "sellable": 18300,
+        "frozen": 0,
+        "available": 18300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11800,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 10600,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3800,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138500,
+        "sellable": 89700,
+        "frozen": 0,
+        "available": 89700,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43000,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10800,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27600,
+        "sellable": 17200,
+        "frozen": 0,
+        "available": 17200,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66500,
+        "sellable": 40500,
+        "frozen": 0,
+        "available": 40500,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 61900,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16500,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96200,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110300,
+        "sellable": 74800,
+        "frozen": 0,
+        "available": 74800,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 26900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80800,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30900,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2600,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2283,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3540,
+        "sellable": 2531,
+        "frozen": 0,
+        "available": 2531,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 0,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1040514712,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1040514712,
+    "fees_cents": 938619,
+    "equity_cents": 3853664122,
+    "incremental_pnl_cents": -1796098,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28800,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 10800,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 21700,
+        "sellable": 15300,
+        "frozen": 0,
+        "available": 15300,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12000,
+        "sellable": 9700,
+        "frozen": 0,
+        "available": 9700,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3700,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10600,
+        "sellable": 8000,
+        "frozen": 0,
+        "available": 8000,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13300,
+        "sellable": 9400,
+        "frozen": 0,
+        "available": 9400,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10900,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65400,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16500,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 11900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 28000,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9900,
+        "sellable": 7100,
+        "frozen": 0,
+        "available": 7100,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29300,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2400,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3537,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 0,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1008605312,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1008605312,
+    "fees_cents": 1072686,
+    "equity_cents": 3853440646,
+    "incremental_pnl_cents": -2019574,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11600,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4500,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 12100,
+        "sellable": 7700,
+        "frozen": 0,
+        "available": 7700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12300,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10900,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92200,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7400,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2400,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2048,
+        "sellable": 1248,
+        "frozen": 0,
+        "available": 1248,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1806,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3641,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 0,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1060050763,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1060050763,
+    "fees_cents": 1051877,
+    "equity_cents": 3853179823,
+    "incremental_pnl_cents": -2280397,
+    "positions": {
+      "600028": {
+        "total": 96100,
+        "sellable": 64100,
+        "frozen": 0,
+        "available": 64100,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 136600,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27900,
+        "sellable": 20600,
+        "frozen": 0,
+        "available": 20600,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12500,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3900,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 15500,
+        "frozen": 0,
+        "available": 15500,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11400,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 132100,
+        "sellable": 100900,
+        "frozen": 0,
+        "available": 100900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40700,
+        "sellable": 30300,
+        "frozen": 0,
+        "available": 30300,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 11800,
+        "sellable": 8100,
+        "frozen": 0,
+        "available": 8100,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12900,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30200,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65700,
+        "sellable": 43700,
+        "frozen": 0,
+        "available": 43700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60800,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54100,
+        "sellable": 32500,
+        "frozen": 0,
+        "available": 32500,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16200,
+        "sellable": 10600,
+        "frozen": 0,
+        "available": 10600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102800,
+        "sellable": 78800,
+        "frozen": 0,
+        "available": 78800,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25700,
+        "sellable": 17600,
+        "frozen": 0,
+        "available": 17600,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 82900,
+        "sellable": 67600,
+        "frozen": 0,
+        "available": 67600,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 29700,
+        "frozen": 0,
+        "available": 29700,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10500,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77200,
+        "sellable": 46800,
+        "frozen": 0,
+        "available": 46800,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2048,
+        "sellable": 1248,
+        "frozen": 0,
+        "available": 1248,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1606,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3796,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 0,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1008244075,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1008244075,
+    "fees_cents": 1444526,
+    "equity_cents": 3852990023,
+    "incremental_pnl_cents": -2470197,
+    "positions": {
+      "600028": {
+        "total": 90800,
+        "sellable": 57000,
+        "frozen": 0,
+        "available": 57000,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 131800,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28700,
+        "sellable": 18300,
+        "frozen": 0,
+        "available": 18300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11800,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 10600,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3800,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138500,
+        "sellable": 89700,
+        "frozen": 0,
+        "available": 89700,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43000,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10800,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27600,
+        "sellable": 17200,
+        "frozen": 0,
+        "available": 17200,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66500,
+        "sellable": 40500,
+        "frozen": 0,
+        "available": 40500,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 61900,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16500,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96200,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110300,
+        "sellable": 74800,
+        "frozen": 0,
+        "available": 74800,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 26900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80800,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30900,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2600,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2283,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3540,
+        "sellable": 2531,
+        "frozen": 0,
+        "available": 2531,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 0,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1037751368,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1037751368,
+    "fees_cents": 934863,
+    "equity_cents": 3853661378,
+    "incremental_pnl_cents": -1798842,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28800,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 10800,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22400,
+        "sellable": 16000,
+        "frozen": 0,
+        "available": 16000,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12000,
+        "sellable": 9700,
+        "frozen": 0,
+        "available": 9700,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3700,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10600,
+        "sellable": 8000,
+        "frozen": 0,
+        "available": 8000,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13300,
+        "sellable": 9400,
+        "frozen": 0,
+        "available": 9400,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10900,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65600,
+        "sellable": 47800,
+        "frozen": 0,
+        "available": 47800,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16500,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 11900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 28000,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10100,
+        "sellable": 7300,
+        "frozen": 0,
+        "available": 7300,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29300,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2400,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3537,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 0,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1008590863,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1008590863,
+    "fees_cents": 1071635,
+    "equity_cents": 3853426197,
+    "incremental_pnl_cents": -2034023,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11600,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4500,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 12100,
+        "sellable": 7700,
+        "frozen": 0,
+        "available": 7700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12300,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10900,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92200,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7400,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2400,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2048,
+        "sellable": 1248,
+        "frozen": 0,
+        "available": 1248,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1806,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3641,
+        "sellable": 2582,
+        "frozen": 0,
+        "available": 2582,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 0,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1043825926,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1043825926,
+    "fees_cents": 1018820,
+    "equity_cents": 3853321102,
+    "incremental_pnl_cents": -2139118,
+    "positions": {
+      "600028": {
+        "total": 96600,
+        "sellable": 64500,
+        "frozen": 0,
+        "available": 64500,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 137100,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27500,
+        "sellable": 20200,
+        "frozen": 0,
+        "available": 20200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12400,
+        "sellable": 8800,
+        "frozen": 0,
+        "available": 8800,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9500,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22200,
+        "sellable": 15400,
+        "frozen": 0,
+        "available": 15400,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1100,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9800,
+        "frozen": 0,
+        "available": 9800,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 133400,
+        "sellable": 101800,
+        "frozen": 0,
+        "available": 101800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40800,
+        "sellable": 30400,
+        "frozen": 0,
+        "available": 30400,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 8200,
+        "frozen": 0,
+        "available": 8200,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11800,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65500,
+        "sellable": 43400,
+        "frozen": 0,
+        "available": 43400,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60600,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54200,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16300,
+        "sellable": 10700,
+        "frozen": 0,
+        "available": 10700,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95400,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102900,
+        "sellable": 78600,
+        "frozen": 0,
+        "available": 78600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 24600,
+        "sellable": 17700,
+        "frozen": 0,
+        "available": 17700,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 83100,
+        "sellable": 67700,
+        "frozen": 0,
+        "available": 67700,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47200,
+        "sellable": 29600,
+        "frozen": 0,
+        "available": 29600,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77600,
+        "sellable": 47200,
+        "frozen": 0,
+        "available": 47200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6700,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 1900,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2111,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3383,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 1,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1001484950,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1001484950,
+    "fees_cents": 1438117,
+    "equity_cents": 3853020910,
+    "incremental_pnl_cents": -2439310,
+    "positions": {
+      "600028": {
+        "total": 91000,
+        "sellable": 57200,
+        "frozen": 0,
+        "available": 57200,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 132300,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28600,
+        "sellable": 18200,
+        "frozen": 0,
+        "available": 18200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11500,
+        "sellable": 7200,
+        "frozen": 0,
+        "available": 7200,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9000,
+        "frozen": 0,
+        "available": 9000,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4100,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138700,
+        "sellable": 89900,
+        "frozen": 0,
+        "available": 89900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43100,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27800,
+        "sellable": 17300,
+        "frozen": 0,
+        "available": 17300,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66700,
+        "sellable": 40700,
+        "frozen": 0,
+        "available": 40700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 62000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16600,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96500,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110200,
+        "sellable": 74600,
+        "frozen": 0,
+        "available": 74600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80900,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30800,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2600,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3556,
+        "sellable": 2527,
+        "frozen": 0,
+        "available": 2527,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 1,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1062630020,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1062630020,
+    "fees_cents": 957174,
+    "equity_cents": 3853641870,
+    "incremental_pnl_cents": -1818350,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 29500,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9700,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 21400,
+        "sellable": 15300,
+        "frozen": 0,
+        "available": 15300,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11900,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3600,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9200,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13500,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65400,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16800,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25200,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85600,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47600,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9800,
+        "sellable": 6800,
+        "frozen": 0,
+        "available": 6800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29600,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2900,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6600,
+        "sellable": 4700,
+        "frozen": 0,
+        "available": 4700,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 32300,
+        "sellable": 21600,
+        "frozen": 0,
+        "available": 21600,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3533,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 1,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1028568817,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1028568817,
+    "fees_cents": 1083359,
+    "equity_cents": 3853430171,
+    "incremental_pnl_cents": -2030049,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12600,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4500,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9900,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12400,
+        "sellable": 8000,
+        "frozen": 0,
+        "available": 8000,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12400,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6900,
+        "sellable": 4500,
+        "frozen": 0,
+        "available": 4500,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3484,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 1,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1043825926,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1043825926,
+    "fees_cents": 1018820,
+    "equity_cents": 3853321102,
+    "incremental_pnl_cents": -2139118,
+    "positions": {
+      "600028": {
+        "total": 96600,
+        "sellable": 64500,
+        "frozen": 0,
+        "available": 64500,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 137100,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27500,
+        "sellable": 20200,
+        "frozen": 0,
+        "available": 20200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12400,
+        "sellable": 8800,
+        "frozen": 0,
+        "available": 8800,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9500,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22200,
+        "sellable": 15400,
+        "frozen": 0,
+        "available": 15400,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1100,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9800,
+        "frozen": 0,
+        "available": 9800,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 133400,
+        "sellable": 101800,
+        "frozen": 0,
+        "available": 101800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40800,
+        "sellable": 30400,
+        "frozen": 0,
+        "available": 30400,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 8200,
+        "frozen": 0,
+        "available": 8200,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11800,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65500,
+        "sellable": 43400,
+        "frozen": 0,
+        "available": 43400,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60600,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54200,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16300,
+        "sellable": 10700,
+        "frozen": 0,
+        "available": 10700,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95400,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102900,
+        "sellable": 78600,
+        "frozen": 0,
+        "available": 78600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 24600,
+        "sellable": 17700,
+        "frozen": 0,
+        "available": 17700,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 83100,
+        "sellable": 67700,
+        "frozen": 0,
+        "available": 67700,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47200,
+        "sellable": 29600,
+        "frozen": 0,
+        "available": 29600,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77600,
+        "sellable": 47200,
+        "frozen": 0,
+        "available": 47200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6700,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 1900,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2111,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3383,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 1,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1001484950,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1001484950,
+    "fees_cents": 1438117,
+    "equity_cents": 3853020910,
+    "incremental_pnl_cents": -2439310,
+    "positions": {
+      "600028": {
+        "total": 91000,
+        "sellable": 57200,
+        "frozen": 0,
+        "available": 57200,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 132300,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28600,
+        "sellable": 18200,
+        "frozen": 0,
+        "available": 18200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11500,
+        "sellable": 7200,
+        "frozen": 0,
+        "available": 7200,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9000,
+        "frozen": 0,
+        "available": 9000,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4100,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138700,
+        "sellable": 89900,
+        "frozen": 0,
+        "available": 89900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43100,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27800,
+        "sellable": 17300,
+        "frozen": 0,
+        "available": 17300,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66700,
+        "sellable": 40700,
+        "frozen": 0,
+        "available": 40700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 62000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16600,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96500,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110200,
+        "sellable": 74600,
+        "frozen": 0,
+        "available": 74600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80900,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30800,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2600,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3556,
+        "sellable": 2527,
+        "frozen": 0,
+        "available": 2527,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 1,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1058862020,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1058862020,
+    "fees_cents": 950774,
+    "equity_cents": 3853628770,
+    "incremental_pnl_cents": -1831450,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 29500,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9700,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22100,
+        "sellable": 16000,
+        "frozen": 0,
+        "available": 16000,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11900,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3600,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9300,
+        "sellable": 6700,
+        "frozen": 0,
+        "available": 6700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13500,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65600,
+        "sellable": 47800,
+        "frozen": 0,
+        "available": 47800,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16800,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25200,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85600,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47600,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10100,
+        "sellable": 7100,
+        "frozen": 0,
+        "available": 7100,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29600,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2900,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6600,
+        "sellable": 4700,
+        "frozen": 0,
+        "available": 4700,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 32300,
+        "sellable": 21600,
+        "frozen": 0,
+        "available": 21600,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3533,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 1,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1028081615,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1028081615,
+    "fees_cents": 1082661,
+    "equity_cents": 3853415669,
+    "incremental_pnl_cents": -2044551,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12600,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4500,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10000,
+        "sellable": 6700,
+        "frozen": 0,
+        "available": 6700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12400,
+        "sellable": 8000,
+        "frozen": 0,
+        "available": 8000,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12400,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6900,
+        "sellable": 4500,
+        "frozen": 0,
+        "available": 4500,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3484,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 1,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1060947582,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1060947582,
+    "fees_cents": 1010366,
+    "equity_cents": 3853392346,
+    "incremental_pnl_cents": -2067874,
+    "positions": {
+      "600028": {
+        "total": 96600,
+        "sellable": 64500,
+        "frozen": 0,
+        "available": 64500,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 28400,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 137100,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27500,
+        "sellable": 20200,
+        "frozen": 0,
+        "available": 20200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12400,
+        "sellable": 8800,
+        "frozen": 0,
+        "available": 8800,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9500,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22200,
+        "sellable": 15400,
+        "frozen": 0,
+        "available": 15400,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1100,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9800,
+        "frozen": 0,
+        "available": 9800,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 133400,
+        "sellable": 101800,
+        "frozen": 0,
+        "available": 101800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40800,
+        "sellable": 30400,
+        "frozen": 0,
+        "available": 30400,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 8200,
+        "frozen": 0,
+        "available": 8200,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11800,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65500,
+        "sellable": 43400,
+        "frozen": 0,
+        "available": 43400,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60600,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54200,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16300,
+        "sellable": 10700,
+        "frozen": 0,
+        "available": 10700,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95400,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102900,
+        "sellable": 78600,
+        "frozen": 0,
+        "available": 78600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 24600,
+        "sellable": 17700,
+        "frozen": 0,
+        "available": 17700,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 83100,
+        "sellable": 67700,
+        "frozen": 0,
+        "available": 67700,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47200,
+        "sellable": 29600,
+        "frozen": 0,
+        "available": 29600,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77600,
+        "sellable": 47200,
+        "frozen": 0,
+        "available": 47200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6400,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2100,
+        "sellable": 1300,
+        "frozen": 0,
+        "available": 1300,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 1885,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1806,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3792,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 5,
+    "conservative": false
+  },
+  {
+    "cash_cents": 998391197,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 998391197,
+    "fees_cents": 1435792,
+    "equity_cents": 3853010157,
+    "incremental_pnl_cents": -2450063,
+    "positions": {
+      "600028": {
+        "total": 91000,
+        "sellable": 57200,
+        "frozen": 0,
+        "available": 57200,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 132300,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28600,
+        "sellable": 18200,
+        "frozen": 0,
+        "available": 18200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3900,
+        "sellable": 2700,
+        "frozen": 0,
+        "available": 2700,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11600,
+        "sellable": 7200,
+        "frozen": 0,
+        "available": 7200,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9000,
+        "frozen": 0,
+        "available": 9000,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4100,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138700,
+        "sellable": 89900,
+        "frozen": 0,
+        "available": 89900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43100,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27800,
+        "sellable": 17300,
+        "frozen": 0,
+        "available": 17300,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66700,
+        "sellable": 40700,
+        "frozen": 0,
+        "available": 40700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 62000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16600,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96500,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110200,
+        "sellable": 74600,
+        "frozen": 0,
+        "available": 74600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80900,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30800,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2500,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3556,
+        "sellable": 2527,
+        "frozen": 0,
+        "available": 2527,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 5,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1060324447,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1060324447,
+    "fees_cents": 948735,
+    "equity_cents": 3853642097,
+    "incremental_pnl_cents": -1818123,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 29500,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 10800,
+        "sellable": 7700,
+        "frozen": 0,
+        "available": 7700,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 21300,
+        "sellable": 15300,
+        "frozen": 0,
+        "available": 15300,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3500,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9200,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13400,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65400,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16800,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25200,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85600,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6800,
+        "frozen": 0,
+        "available": 6800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29600,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2900,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6700,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 32300,
+        "sellable": 21600,
+        "frozen": 0,
+        "available": 21600,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3533,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 5,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1028428246,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1028428246,
+    "fees_cents": 1081514,
+    "equity_cents": 3853449400,
+    "incremental_pnl_cents": -2010820,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12600,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4400,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9900,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12500,
+        "sellable": 8100,
+        "frozen": 0,
+        "available": 8100,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12400,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 4600,
+        "frozen": 0,
+        "available": 4600,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3484,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 5,
+    "conservative": false
+  },
+  {
+    "cash_cents": 1060947582,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1060947582,
+    "fees_cents": 1010366,
+    "equity_cents": 3853392346,
+    "incremental_pnl_cents": -2067874,
+    "positions": {
+      "600028": {
+        "total": 96600,
+        "sellable": 64500,
+        "frozen": 0,
+        "available": 64500,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 28400,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12900,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 137100,
+        "sellable": 108600,
+        "frozen": 0,
+        "available": 108600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 27500,
+        "sellable": 20200,
+        "frozen": 0,
+        "available": 20200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12400,
+        "sellable": 8800,
+        "frozen": 0,
+        "available": 8800,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3600,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 9500,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22200,
+        "sellable": 15400,
+        "frozen": 0,
+        "available": 15400,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1100,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9800,
+        "frozen": 0,
+        "available": 9800,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4000,
+        "sellable": 3500,
+        "frozen": 0,
+        "available": 3500,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18400,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 133400,
+        "sellable": 101800,
+        "frozen": 0,
+        "available": 101800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 40800,
+        "sellable": 30400,
+        "frozen": 0,
+        "available": 30400,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 8200,
+        "frozen": 0,
+        "available": 8200,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11800,
+        "sellable": 9200,
+        "frozen": 0,
+        "available": 9200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26600,
+        "sellable": 18900,
+        "frozen": 0,
+        "available": 18900,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 9900,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65500,
+        "sellable": 43400,
+        "frozen": 0,
+        "available": 43400,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 60600,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54200,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16300,
+        "sellable": 10700,
+        "frozen": 0,
+        "available": 10700,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95400,
+        "sellable": 76400,
+        "frozen": 0,
+        "available": 76400,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 102900,
+        "sellable": 78600,
+        "frozen": 0,
+        "available": 78600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 24600,
+        "sellable": 17700,
+        "frozen": 0,
+        "available": 17700,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 83100,
+        "sellable": 67700,
+        "frozen": 0,
+        "available": 67700,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47200,
+        "sellable": 29600,
+        "frozen": 0,
+        "available": 29600,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10200,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30400,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 77600,
+        "sellable": 47200,
+        "frozen": 0,
+        "available": 47200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 5800,
+        "sellable": 3600,
+        "frozen": 0,
+        "available": 3600,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6400,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2100,
+        "sellable": 1300,
+        "frozen": 0,
+        "available": 1300,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 1885,
+        "sellable": 1356,
+        "frozen": 0,
+        "available": 1356,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1806,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3792,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "immediate",
+    "scale": 5,
+    "conservative": true
+  },
+  {
+    "cash_cents": 998391197,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 998391197,
+    "fees_cents": 1435792,
+    "equity_cents": 3853010157,
+    "incremental_pnl_cents": -2450063,
+    "positions": {
+      "600028": {
+        "total": 91000,
+        "sellable": 57200,
+        "frozen": 0,
+        "available": 57200,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19000,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13900,
+        "sellable": 8700,
+        "frozen": 0,
+        "available": 8700,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 132300,
+        "sellable": 98600,
+        "frozen": 0,
+        "available": 98600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28600,
+        "sellable": 18200,
+        "frozen": 0,
+        "available": 18200,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13700,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 3900,
+        "sellable": 2700,
+        "frozen": 0,
+        "available": 2700,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11600,
+        "sellable": 7200,
+        "frozen": 0,
+        "available": 7200,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 7800,
+        "sellable": 5200,
+        "frozen": 0,
+        "available": 5200,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22300,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 1000,
+        "sellable": 900,
+        "frozen": 0,
+        "available": 900,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9000,
+        "frozen": 0,
+        "available": 9000,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4100,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 18500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 138700,
+        "sellable": 89900,
+        "frozen": 0,
+        "available": 89900,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 43100,
+        "sellable": 28900,
+        "frozen": 0,
+        "available": 28900,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10700,
+        "sellable": 7400,
+        "frozen": 0,
+        "available": 7400,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 11900,
+        "sellable": 7900,
+        "frozen": 0,
+        "available": 7900,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 27800,
+        "sellable": 17300,
+        "frozen": 0,
+        "available": 17300,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 73000,
+        "sellable": 43800,
+        "frozen": 0,
+        "available": 43800,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 10100,
+        "sellable": 6500,
+        "frozen": 0,
+        "available": 6500,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 66700,
+        "sellable": 40700,
+        "frozen": 0,
+        "available": 40700,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 62000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 54000,
+        "sellable": 32400,
+        "frozen": 0,
+        "available": 32400,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16600,
+        "sellable": 10400,
+        "frozen": 0,
+        "available": 10400,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12900,
+        "sellable": 8500,
+        "frozen": 0,
+        "available": 8500,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 96500,
+        "sellable": 67900,
+        "frozen": 0,
+        "available": 67900,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110200,
+        "sellable": 74600,
+        "frozen": 0,
+        "available": 74600,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25900,
+        "sellable": 16900,
+        "frozen": 0,
+        "available": 16900,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 80900,
+        "sellable": 58800,
+        "frozen": 0,
+        "available": 58800,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47800,
+        "sellable": 29800,
+        "frozen": 0,
+        "available": 29800,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 10300,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 15200,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 30800,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 76000,
+        "sellable": 45600,
+        "frozen": 0,
+        "available": 45600,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6500,
+        "sellable": 4100,
+        "frozen": 0,
+        "available": 4100,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2500,
+        "sellable": 1900,
+        "frozen": 0,
+        "available": 1900,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7100,
+        "sellable": 5000,
+        "frozen": 0,
+        "available": 5000,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 30000,
+        "sellable": 18400,
+        "frozen": 0,
+        "available": 18400,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1651,
+        "frozen": 0,
+        "available": 1651,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 2000,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 2170,
+        "sellable": 2170,
+        "frozen": 0,
+        "available": 2170,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 2000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3556,
+        "sellable": 2527,
+        "frozen": 0,
+        "available": 2527,
+        "initial": 4090
+      }
+    },
+    "strategy": "twap",
+    "scale": 5,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1056089084,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1056089084,
+    "fees_cents": 942398,
+    "equity_cents": 3853634434,
+    "incremental_pnl_cents": -1825786,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 20700,
+        "sellable": 14200,
+        "frozen": 0,
+        "available": 14200,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 12300,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 126500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 29500,
+        "sellable": 22300,
+        "frozen": 0,
+        "available": 22300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 12000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 10800,
+        "sellable": 7700,
+        "frozen": 0,
+        "available": 7700,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 22000,
+        "sellable": 16000,
+        "frozen": 0,
+        "available": 16000,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 11800,
+        "sellable": 9300,
+        "frozen": 0,
+        "available": 9300,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 3500,
+        "sellable": 3100,
+        "frozen": 0,
+        "available": 3100,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 129800,
+        "sellable": 108300,
+        "frozen": 0,
+        "available": 108300,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 39700,
+        "sellable": 32600,
+        "frozen": 0,
+        "available": 32600,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 9300,
+        "sellable": 6700,
+        "frozen": 0,
+        "available": 6700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 13500,
+        "sellable": 9400,
+        "frozen": 0,
+        "available": 9400,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 26400,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30300,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 65600,
+        "sellable": 47800,
+        "frozen": 0,
+        "available": 47800,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 52000,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16800,
+        "sellable": 11200,
+        "frozen": 0,
+        "available": 11200,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12100,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 25200,
+        "sellable": 21400,
+        "frozen": 0,
+        "available": 21400,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 85600,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 47400,
+        "sellable": 32100,
+        "frozen": 0,
+        "available": 32100,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9900,
+        "sellable": 7100,
+        "frozen": 0,
+        "available": 7100,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29600,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 2900,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 6700,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 32300,
+        "sellable": 21600,
+        "frozen": 0,
+        "available": 21600,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2486,
+        "sellable": 1808,
+        "frozen": 0,
+        "available": 1808,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1953,
+        "frozen": 0,
+        "available": 1953,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3533,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "passive",
+    "scale": 5,
+    "conservative": true
+  },
+  {
+    "cash_cents": 1027471771,
+    "frozen_cash_cents": 0,
+    "available_cash_cents": 1027471771,
+    "fees_cents": 1079989,
+    "equity_cents": 3853438425,
+    "incremental_pnl_cents": -2021795,
+    "positions": {
+      "600028": {
+        "total": 104900,
+        "sellable": 73800,
+        "frozen": 0,
+        "available": 73800,
+        "initial": 95000
+      },
+      "600030": {
+        "total": 19900,
+        "sellable": 12300,
+        "frozen": 0,
+        "available": 12300,
+        "initial": 19000
+      },
+      "600031": {
+        "total": 29000,
+        "sellable": 17400,
+        "frozen": 0,
+        "available": 17400,
+        "initial": 29000
+      },
+      "600036": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600050": {
+        "total": 154500,
+        "sellable": 111600,
+        "frozen": 0,
+        "available": 111600,
+        "initial": 119000
+      },
+      "600089": {
+        "total": 28500,
+        "sellable": 21300,
+        "frozen": 0,
+        "available": 21300,
+        "initial": 28000
+      },
+      "600111": {
+        "total": 13000,
+        "sellable": 8400,
+        "frozen": 0,
+        "available": 8400,
+        "initial": 14000
+      },
+      "600150": {
+        "total": 13000,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "600183": {
+        "total": 4000,
+        "sellable": 2400,
+        "frozen": 0,
+        "available": 2400,
+        "initial": 4000
+      },
+      "600276": {
+        "total": 11000,
+        "sellable": 6600,
+        "frozen": 0,
+        "available": 6600,
+        "initial": 11000
+      },
+      "600309": {
+        "total": 8000,
+        "sellable": 4800,
+        "frozen": 0,
+        "available": 4800,
+        "initial": 8000
+      },
+      "600406": {
+        "total": 20800,
+        "sellable": 13800,
+        "frozen": 0,
+        "available": 13800,
+        "initial": 23000
+      },
+      "600519": {
+        "total": 900,
+        "sellable": 800,
+        "frozen": 0,
+        "available": 800,
+        "initial": 1000
+      },
+      "600760": {
+        "total": 12600,
+        "sellable": 8900,
+        "frozen": 0,
+        "available": 8900,
+        "initial": 12000
+      },
+      "600809": {
+        "total": 4400,
+        "sellable": 3000,
+        "frozen": 0,
+        "available": 3000,
+        "initial": 5000
+      },
+      "600887": {
+        "total": 17500,
+        "sellable": 11400,
+        "frozen": 0,
+        "available": 11400,
+        "initial": 19000
+      },
+      "600900": {
+        "total": 18000,
+        "sellable": 10800,
+        "frozen": 0,
+        "available": 10800,
+        "initial": 18000
+      },
+      "600930": {
+        "total": 127300,
+        "sellable": 105800,
+        "frozen": 0,
+        "available": 105800,
+        "initial": 127000
+      },
+      "601012": {
+        "total": 41800,
+        "sellable": 31200,
+        "frozen": 0,
+        "available": 31200,
+        "initial": 44000
+      },
+      "601088": {
+        "total": 10000,
+        "sellable": 6700,
+        "frozen": 0,
+        "available": 6700,
+        "initial": 11000
+      },
+      "601127": {
+        "total": 12600,
+        "sellable": 8200,
+        "frozen": 0,
+        "available": 8200,
+        "initial": 11000
+      },
+      "601166": {
+        "total": 29600,
+        "sellable": 20000,
+        "frozen": 0,
+        "available": 20000,
+        "initial": 28000
+      },
+      "601211": {
+        "total": 30700,
+        "sellable": 19100,
+        "frozen": 0,
+        "available": 19100,
+        "initial": 29000
+      },
+      "601288": {
+        "total": 75600,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 73000
+      },
+      "601318": {
+        "total": 11000,
+        "sellable": 7000,
+        "frozen": 0,
+        "available": 7000,
+        "initial": 10000
+      },
+      "601328": {
+        "total": 70100,
+        "sellable": 47600,
+        "frozen": 0,
+        "available": 47600,
+        "initial": 67000
+      },
+      "601398": {
+        "total": 54400,
+        "sellable": 37200,
+        "frozen": 0,
+        "available": 37200,
+        "initial": 62000
+      },
+      "601600": {
+        "total": 57200,
+        "sellable": 35600,
+        "frozen": 0,
+        "available": 35600,
+        "initial": 54000
+      },
+      "601601": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601628": {
+        "total": 12400,
+        "sellable": 7800,
+        "frozen": 0,
+        "available": 7800,
+        "initial": 13000
+      },
+      "601658": {
+        "total": 95500,
+        "sellable": 79500,
+        "frozen": 0,
+        "available": 79500,
+        "initial": 94000
+      },
+      "601668": {
+        "total": 110500,
+        "sellable": 92100,
+        "frozen": 0,
+        "available": 92100,
+        "initial": 117000
+      },
+      "601688": {
+        "total": 27400,
+        "sellable": 20800,
+        "frozen": 0,
+        "available": 20800,
+        "initial": 28000
+      },
+      "601728": {
+        "total": 92400,
+        "sellable": 70900,
+        "frozen": 0,
+        "available": 70900,
+        "initial": 82000
+      },
+      "601857": {
+        "total": 43700,
+        "sellable": 28200,
+        "frozen": 0,
+        "available": 28200,
+        "initial": 47000
+      },
+      "601888": {
+        "total": 9600,
+        "sellable": 6000,
+        "frozen": 0,
+        "available": 6000,
+        "initial": 10000
+      },
+      "601899": {
+        "total": 16000,
+        "sellable": 9600,
+        "frozen": 0,
+        "available": 9600,
+        "initial": 16000
+      },
+      "601919": {
+        "total": 29700,
+        "sellable": 18600,
+        "frozen": 0,
+        "available": 18600,
+        "initial": 31000
+      },
+      "601988": {
+        "total": 73500,
+        "sellable": 49200,
+        "frozen": 0,
+        "available": 49200,
+        "initial": 76000
+      },
+      "603019": {
+        "total": 6600,
+        "sellable": 4200,
+        "frozen": 0,
+        "available": 4200,
+        "initial": 6000
+      },
+      "603259": {
+        "total": 3000,
+        "sellable": 1800,
+        "frozen": 0,
+        "available": 1800,
+        "initial": 3000
+      },
+      "603501": {
+        "total": 7000,
+        "sellable": 4600,
+        "frozen": 0,
+        "available": 4600,
+        "initial": 7000
+      },
+      "603986": {
+        "total": 2200,
+        "sellable": 1400,
+        "frozen": 0,
+        "available": 1400,
+        "initial": 2000
+      },
+      "603993": {
+        "total": 29400,
+        "sellable": 18700,
+        "frozen": 0,
+        "available": 18700,
+        "initial": 29000
+      },
+      "688008": {
+        "total": 2260,
+        "sellable": 1582,
+        "frozen": 0,
+        "available": 1582,
+        "initial": 2260
+      },
+      "688012": {
+        "total": 1800,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688041": {
+        "total": 2000,
+        "sellable": 1200,
+        "frozen": 0,
+        "available": 1200,
+        "initial": 2000
+      },
+      "688111": {
+        "total": 1953,
+        "sellable": 1736,
+        "frozen": 0,
+        "available": 1736,
+        "initial": 2170
+      },
+      "688256": {
+        "total": 1800,
+        "sellable": 1600,
+        "frozen": 0,
+        "available": 1600,
+        "initial": 2000
+      },
+      "688981": {
+        "total": 3484,
+        "sellable": 2576,
+        "frozen": 0,
+        "available": 2576,
+        "initial": 4090
+      }
+    },
+    "strategy": "adaptive",
+    "scale": 5,
+    "conservative": true
+  }
+]

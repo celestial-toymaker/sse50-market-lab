@@ -1,0 +1,30 @@
+[
+  {
+    "strategy": "immediate",
+    "extra_cost_bp_per_traded_notional": 1.0,
+    "all_task_cost_bp": 7.97773673505321,
+    "incremental_pnl_cents": -2313936,
+    "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+  },
+  {
+    "strategy": "twap",
+    "extra_cost_bp_per_traded_notional": 1.0,
+    "all_task_cost_bp": 10.571397318177695,
+    "incremental_pnl_cents": -2614137,
+    "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+  },
+  {
+    "strategy": "passive",
+    "extra_cost_bp_per_traded_notional": 1.0,
+    "all_task_cost_bp": 6.625308801044891,
+    "incremental_pnl_cents": -1980953,
+    "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+  },
+  {
+    "strategy": "adaptive",
+    "extra_cost_bp_per_traded_notional": 1.0,
+    "all_task_cost_bp": 7.6646951000424455,
+    "incremental_pnl_cents": -2207602,
+    "scope": "Additional one-bp execution-cost overlay; fills and completion remain the baseline path."
+  }
+]

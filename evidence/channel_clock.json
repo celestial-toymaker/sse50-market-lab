@@ -1,0 +1,366 @@
+{
+  "ordering": "Per-security channel business order; raw clock labels retained. Cross-security scheduling uses timestamp, symbol and local event order.",
+  "rows": [
+    {
+      "channel": 1001,
+      "cross_security_regressions": 14,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 603019,
+            "biz": 50110,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 603259,
+            "biz": 77651,
+            "time": 91500010
+          },
+          "difference_ms": -599990
+        },
+        {
+          "before": {
+            "symbol": 603259,
+            "biz": 81775,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 600111,
+            "biz": 117031,
+            "time": 91500010
+          },
+          "difference_ms": -599990
+        },
+        {
+          "before": {
+            "symbol": 600111,
+            "biz": 121717,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601318,
+            "biz": 164377,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        }
+      ]
+    },
+    {
+      "channel": 1002,
+      "cross_security_regressions": 8,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 601688,
+            "biz": 9771,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601658,
+            "biz": 81521,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        },
+        {
+          "before": {
+            "symbol": 601658,
+            "biz": 85085,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 688012,
+            "biz": 120872,
+            "time": 91500030
+          },
+          "difference_ms": -599970
+        },
+        {
+          "before": {
+            "symbol": 688012,
+            "biz": 122717,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 600050,
+            "biz": 274093,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        }
+      ]
+    },
+    {
+      "channel": 1003,
+      "cross_security_regressions": 2,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 688041,
+            "biz": 118311,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 603986,
+            "biz": 390056,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        },
+        {
+          "before": {
+            "symbol": 688041,
+            "biz": 22130690,
+            "time": 150000000
+          },
+          "after": {
+            "symbol": 603986,
+            "biz": 22198010,
+            "time": 145700000
+          },
+          "difference_ms": -180000
+        }
+      ]
+    },
+    {
+      "channel": 1004,
+      "cross_security_regressions": 14,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 601328,
+            "biz": 29721,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 688256,
+            "biz": 55090,
+            "time": 91500030
+          },
+          "difference_ms": -599970
+        },
+        {
+          "before": {
+            "symbol": 688256,
+            "biz": 56211,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601728,
+            "biz": 114084,
+            "time": 91500050
+          },
+          "difference_ms": -599950
+        },
+        {
+          "before": {
+            "symbol": 601728,
+            "biz": 117196,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601166,
+            "biz": 120689,
+            "time": 91500040
+          },
+          "difference_ms": -599960
+        }
+      ]
+    },
+    {
+      "channel": 1005,
+      "cross_security_regressions": 12,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 601601,
+            "biz": 20903,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 600036,
+            "biz": 62650,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        },
+        {
+          "before": {
+            "symbol": 600036,
+            "biz": 67654,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 600276,
+            "biz": 120583,
+            "time": 91500040
+          },
+          "difference_ms": -599960
+        },
+        {
+          "before": {
+            "symbol": 600276,
+            "biz": 127216,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601919,
+            "biz": 212913,
+            "time": 91500020
+          },
+          "difference_ms": -599980
+        }
+      ]
+    },
+    {
+      "channel": 1006,
+      "cross_security_regressions": 10,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 601988,
+            "biz": 24188,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 688008,
+            "biz": 55202,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        },
+        {
+          "before": {
+            "symbol": 688008,
+            "biz": 61324,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601857,
+            "biz": 127336,
+            "time": 91500030
+          },
+          "difference_ms": -599970
+        },
+        {
+          "before": {
+            "symbol": 601857,
+            "biz": 130579,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601288,
+            "biz": 254621,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        }
+      ]
+    },
+    {
+      "channel": 1007,
+      "cross_security_regressions": 16,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 600760,
+            "biz": 17099,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601628,
+            "biz": 20374,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        },
+        {
+          "before": {
+            "symbol": 601628,
+            "biz": 22679,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601899,
+            "biz": 30048,
+            "time": 91500010
+          },
+          "difference_ms": -599990
+        },
+        {
+          "before": {
+            "symbol": 601899,
+            "biz": 42048,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 688981,
+            "biz": 60293,
+            "time": 91500010
+          },
+          "difference_ms": -599990
+        }
+      ]
+    },
+    {
+      "channel": 1008,
+      "cross_security_regressions": 8,
+      "continuous_regressions": 0,
+      "examples": [
+        {
+          "before": {
+            "symbol": 600030,
+            "biz": 97902,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601211,
+            "biz": 120703,
+            "time": 91500050
+          },
+          "difference_ms": -599950
+        },
+        {
+          "before": {
+            "symbol": 601211,
+            "biz": 123966,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 600089,
+            "biz": 137218,
+            "time": 91500040
+          },
+          "difference_ms": -599960
+        },
+        {
+          "before": {
+            "symbol": 600089,
+            "biz": 141296,
+            "time": 92500000
+          },
+          "after": {
+            "symbol": 601127,
+            "biz": 184472,
+            "time": 91500000
+          },
+          "difference_ms": -600000
+        }
+      ]
+    },
+    {
+      "channel": 2301,
+      "cross_security_regressions": 0,
+      "continuous_regressions": 0,
+      "examples": []
+    }
+  ]
+}

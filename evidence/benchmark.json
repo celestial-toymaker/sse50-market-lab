@@ -1,0 +1,16 @@
+{
+  "machine": "macOS-26.6-arm64-arm-64bit",
+  "architecture": "arm64",
+  "samples": 250,
+  "stocks": 50,
+  "warm_seek_ms": {
+    "p50": 8.856687520164996,
+    "p95": 24.590529169654467,
+    "max": 37.45941596571356
+  },
+  "checkpoint_state_equal": 250,
+  "checkpoint_state_total": 250,
+  "seconds": 4.4366752919740975,
+  "peak_rss_bytes": 852377600,
+  "scope": "5 intraday times per stock; 5-minute compressed checkpoints; warm filesystem cache; exact decoded state equality"
+}

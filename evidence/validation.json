@@ -1,0 +1,24 @@
+{
+  "python": {
+    "passed": 41,
+    "command": "python -m pytest -q"
+  },
+  "rust": {
+    "passed": 4,
+    "command": "cargo test --manifest-path crates/core/Cargo.toml"
+  },
+  "browser": {
+    "passed": 7,
+    "command": "npm --prefix frontend run test:ui"
+  },
+  "devices": {
+    "mps": "passed on actual hardware",
+    "cpu": "passed",
+    "mps_to_cpu": "passed atomic retry",
+    "cuda": "未测试",
+    "rtol": 0.0001,
+    "atol": 1e-05,
+    "program_errors": "MPS shape errors and unrelated NotImplementedError remain visible"
+  },
+  "platform": "macOS-26.6-arm64-arm-64bit"
+}

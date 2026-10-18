@@ -1,0 +1,14 @@
+.venv/
+target/
+crates/core/target/
+frontend/node_modules/
+data/
+work/
+*.so
+*.dylib
+__pycache__/
+.pytest_cache/
+.hypothesis/
+dist/
+*.sqlite*
+.DS_Store

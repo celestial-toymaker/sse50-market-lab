@@ -1,0 +1,10 @@
+{
+  "latency": {
+    "market_ms": 100,
+    "submit_ms": 50,
+    "cancel_ms": 50,
+    "report_ms": 50
+  },
+  "source": "18c0e124a9c68eb2f77b965ca1f29c93bb30339d7db45245e1af3c0420c6c947",
+  "core_sha256": "237323f3fd729f45a3a9ccc940a5ea24f15396f88ff9ea44c7d77b36d4c4c2db"
+}

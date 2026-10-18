@@ -1,0 +1,21 @@
+{
+  "parent_yuan": 50000,
+  "deadline_seconds": 60,
+  "protection_ticks": 2,
+  "max_displayed_depth_fraction": 0.1,
+  "max_trailing_minute_volume_fraction": 0.01,
+  "commission": "2.5bp inclusive of exchange/regulatory fees, 5 yuan minimum per order; transfer 0.1bp both sides; stamp 5bp sells",
+  "imbalance_threshold": 0.8181818181818182,
+  "parent_schedule": [
+    "09:35",
+    "10:05",
+    "10:35",
+    "11:05",
+    "13:05",
+    "13:35",
+    "14:05",
+    "14:35"
+  ],
+  "directions": "alternate BUY, SELL",
+  "adaptive": "cancel passive remainder, await cancel acknowledgement, then use protected taker; deadline remainder retained"
+}
